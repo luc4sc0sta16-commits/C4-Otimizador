@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace C4_Otimizador_v2.Properties {
+namespace C4_Otimizador.Properties {
     
     
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]

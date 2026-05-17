@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{BD56EC76-F4EB-4294-AF2A-250F4633CA08}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>C4_Otimizador_v2</RootNamespace>
-    <AssemblyName>C4 Otimizador v2.0</AssemblyName>
+    <RootNamespace>C4_Otimizador</RootNamespace>
+    <AssemblyName>C4 OTIMIZADOR v3</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -81,7 +81,7 @@
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
-      <Generator>ResXFileCodeGenerator</Generator>
+      <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
     </EmbeddedResource>
