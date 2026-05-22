@@ -13,9 +13,9 @@
             this.SuspendLayout();
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(550, 720);
+            this.ClientSize = new System.Drawing.Size(550, 800);
             this.Name = "Form1";
-            this.Text = "C4 Otimizador";
+            this.Text = "C4 Otimizador V4";
             this.ResumeLayout(false);
         }
     }

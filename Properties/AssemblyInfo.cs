@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 // As informações gerais sobre um assembly são controladas por
 // conjunto de atributos. Altere estes valores de atributo para modificar as informações
 // associadas a um assembly.
-[assembly: AssemblyTitle("C4 Otimizador v3")]
+[assembly: AssemblyTitle("C4 Otimizador")]
 [assembly: AssemblyDescription("High Performance System Tweaker")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("C4 Performance")]
@@ -30,6 +30,6 @@ using System.Runtime.InteropServices;
 //      Número da Versão
 //      Revisão
 //
-[assembly: AssemblyVersion("3.0.0.0")]
-[assembly: AssemblyFileVersion("3.0.0.0")]
+[assembly: AssemblyVersion("4.0.0.0")]
+[assembly: AssemblyFileVersion("4.0.0.0")]
 [assembly: NeutralResourcesLanguage("pl")]
